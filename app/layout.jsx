@@ -18,6 +18,7 @@ export default function RootLayout({ children }) {
       
       <body className={rubik.className}>
       <Navbar></Navbar>
+      <h2 className='text-center'>Test the Loading</h2>
         {children}</body>
     </html>
   )
