@@ -13,6 +13,7 @@ export default function Home() {
         </Link>
       </div>
 
+
       <h2>Company Updates</h2>
 
       <div className="card">
